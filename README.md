@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yass 
 - 👀 I’m interested in Programming ! 
-- 🌱 I’m currently learning Java / other than that  learning German language.
+- 🌱 I’m currently learning Java / other than learning German language.
 - 📫 How to reach me : tesxt me on IG @yassin_al_mardod
   
 
