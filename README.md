@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming ! 
 - 🌱 I’m currently learning Java / other than learning German language.
 - 📫 How to reach me : tesxt me on IG @yassin_al_mardod
- 
+- 🌟 One year of experience in java development
 
 <!---
 yaseno2186/yaseno2186 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
